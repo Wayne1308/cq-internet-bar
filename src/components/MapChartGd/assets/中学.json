@@ -1,0 +1,2322 @@
+[
+  {
+    "rating": "",
+    "tel": "",
+    "typecode": "141202",
+    "areacode": "023",
+    "address": "中建二局生活区对面",
+    "cityname": "重庆市",
+    "display_brand": "",
+    "shape_region": "106.538,29.7003,106.542,29.6971",
+    "longitude": "106.539959",
+    "review_total": "",
+    "cinemazuo_flag": "0",
+    "diner_flag": "0",
+    "id": "B0FFLAKDCG",
+    "name": "渝北区悦来初级中学",
+    "group_flag": "0",
+    "distance": "0",
+    "entrances": [
+      {
+        "latitude": "29.699353",
+        "longitude": "106.540799"
+      }
+    ],
+    "recommend_flag": "0",
+    "exits": [],
+    "adcode": "500112",
+    "domain_list": [
+      {
+        "type": "html",
+        "id": "1015",
+        "name": "poiclosed"
+      },
+      {
+        "type": "img",
+        "id": "1003",
+        "name": "icon"
+      },
+      {
+        "type": "html",
+        "id": "1011",
+        "name": "traffic"
+      },
+      {
+        "type": "text",
+        "id": "1014",
+        "name": "roadaoi"
+      },
+      {
+        "type": "button",
+        "id": "1012",
+        "name": "ext_btn"
+      },
+      {
+        "type": "webimg",
+        "id": "1009",
+        "value": "http://store.is.autonavi.com/showpic/a961be44709407e8a050c2b803450232",
+        "name": "pic_info"
+      },
+      {
+        "type": "img",
+        "id": "1008",
+        "name": "overbooked"
+      },
+      {
+        "type": "img",
+        "id": "1007",
+        "name": "moreservice"
+      },
+      {
+        "type": "html",
+        "id": "1006",
+        "name": "tag"
+      },
+      {
+        "type": "text",
+        "id": "1005",
+        "name": "parent_info"
+      },
+      {
+        "type": "array",
+        "name": "parent_other_rel",
+        "id": "1004"
+      },
+      {
+        "type": "text",
+        "id": "1010",
+        "name": "business_area"
+      },
+      {
+        "type": "html",
+        "id": "1002",
+        "name": "deepinfo"
+      },
+      {
+        "type": "html",
+        "id": "1001",
+        "name": "price"
+      },
+      {
+        "type": "text",
+        "id": "1013",
+        "value": "106.537904,29.699125_106.538091,29.699007_106.538513,29.698851_106.53853,29.698844_106.538545,29.698837_106.539961,29.697949_106.541356,29.697065_106.541948,29.697741_106.541963,29.697799_106.541659,29.698058_106.54152,29.698192_106.541381,29.698337_106.541065,29.698719_106.540801,29.699093_106.540509,29.699492_106.540215,29.699886_106.53997,29.700207_106.539956,29.700219_106.539943,29.70023_106.539905,29.700246_106.539881,29.700255_106.53986,29.700259_106.539841,29.700257_106.539228,29.700137_106.538636,29.699988_106.538616,29.699981_106.538595,29.699971_106.538579,29.699963_106.538567,29.699952_106.538469,29.699798_106.53834,29.699739_106.538233,29.699639_106.53819,29.699592_106.538149,29.69954_106.538027,29.699397_106.537927,29.699264_106.537907,29.699223_106.537904,29.699125",
+        "name": "aoi"
+      }
+    ],
+    "newtype": "141202",
+    "disp_name": "渝北区悦来初级中学",
+    "cpdata": "",
+    "latitude": "29.698805",
+    "discount_flag": "0"
+  },
+  {
+    "rating": "",
+    "tel": "023-67461080",
+    "typecode": "141202",
+    "areacode": "023",
+    "address": "鸳鸯街道鸳鸯北路23号",
+    "cityname": "重庆市",
+    "display_brand": "",
+    "shape_region": "106.555,29.665,106.559,29.6633",
+    "longitude": "106.556842",
+    "review_total": "1",
+    "cinemazuo_flag": "0",
+    "diner_flag": "0",
+    "id": "B0FFH256UA",
+    "name": "重庆两江育才中学",
+    "group_flag": "0",
+    "distance": "0",
+    "entrances": [
+      {
+        "latitude": "29.664657",
+        "longitude": "106.557589"
+      }
+    ],
+    "recommend_flag": "0",
+    "exits": [],
+    "adcode": "500112",
+    "domain_list": [
+      {
+        "type": "html",
+        "id": "1015",
+        "name": "poiclosed"
+      },
+      {
+        "type": "img",
+        "id": "1003",
+        "name": "icon"
+      },
+      {
+        "type": "html",
+        "id": "1011",
+        "name": "traffic"
+      },
+      {
+        "type": "text",
+        "id": "1014",
+        "name": "roadaoi"
+      },
+      {
+        "type": "button",
+        "id": "1012",
+        "name": "ext_btn"
+      },
+      {
+        "type": "webimg",
+        "id": "1009",
+        "value": "http://store.is.autonavi.com/showpic/c50dc68ccd33d50ac5884f8c31cc595d",
+        "name": "pic_info"
+      },
+      {
+        "type": "img",
+        "id": "1008",
+        "name": "overbooked"
+      },
+      {
+        "type": "img",
+        "id": "1007",
+        "name": "moreservice"
+      },
+      {
+        "type": "html",
+        "id": "1006",
+        "name": "tag"
+      },
+      {
+        "type": "text",
+        "id": "1005",
+        "value": "查看出入口、停车场",
+        "name": "parent_info"
+      },
+      {
+        "pys": "29.664548",
+        "poiids": "B0FFFP1AWE",
+        "name": "parent_other_rel",
+        "pxs": "106.557585",
+        "childtype": "31",
+        "poiname": "重庆两江育才中学(北门)",
+        "address": "鸳鸯街道鸳鸯北路23号重庆两江育才中学",
+        "shortname": "北门",
+        "type": "array",
+        "id": "1004"
+      },
+      {
+        "type": "text",
+        "id": "1010",
+        "name": "business_area"
+      },
+      {
+        "type": "html",
+        "id": "1002",
+        "name": "deepinfo"
+      },
+      {
+        "type": "html",
+        "id": "1001",
+        "name": "price"
+      },
+      {
+        "type": "text",
+        "id": "1013",
+        "value": "106.555763,29.665045_106.556557,29.664941_106.557495,29.664694_106.557809,29.664645_106.558316,29.664588_106.558469,29.664568_106.558496,29.664558_106.558509,29.664544_106.558513,29.664533_106.558509,29.664393_106.558535,29.664304_106.558364,29.663602_106.558315,29.663388_106.558279,29.663336_106.55826,29.663307_106.558224,29.663293_106.558179,29.663293_106.557174,29.663405_106.556272,29.66343_106.555228,29.663452_106.55519,29.663463_106.555175,29.663474_106.555171,29.663484_106.555248,29.664095_106.55527,29.664235_106.555281,29.664256_106.555297,29.664266_106.555309,29.66427_106.555497,29.66428_106.555515,29.664285_106.555524,29.664292_106.555533,29.664306_106.555647,29.664965_106.555669,29.665013_106.555685,29.66503_106.555696,29.665038_106.555717,29.665047_106.555763,29.665045",
+        "name": "aoi"
+      }
+    ],
+    "newtype": "141202",
+    "disp_name": "重庆两江育才中学",
+    "cpdata": "",
+    "latitude": "29.664098",
+    "discount_flag": "0"
+  },
+  {
+    "rating": "",
+    "tel": "",
+    "typecode": "141202",
+    "areacode": "023",
+    "address": "悦城路",
+    "cityname": "重庆市",
+    "display_brand": "",
+    "shape_region": "",
+    "longitude": "106.540545",
+    "review_total": "",
+    "cinemazuo_flag": "0",
+    "diner_flag": "0",
+    "id": "B0HBR62Y9N",
+    "name": "重庆市渝北区悦来初级中学校",
+    "group_flag": "0",
+    "distance": "0",
+    "entrances": [
+      {
+        "latitude": "29.69948",
+        "longitude": "106.54056"
+      }
+    ],
+    "recommend_flag": "0",
+    "exits": [],
+    "adcode": "500112",
+    "domain_list": [
+      {
+        "type": "html",
+        "id": "1015",
+        "name": "poiclosed"
+      },
+      {
+        "type": "img",
+        "id": "1003",
+        "name": "icon"
+      },
+      {
+        "type": "html",
+        "id": "1011",
+        "name": "traffic"
+      },
+      {
+        "type": "text",
+        "id": "1014",
+        "name": "roadaoi"
+      },
+      {
+        "type": "button",
+        "id": "1012",
+        "name": "ext_btn"
+      },
+      {
+        "type": "webimg",
+        "id": "1009",
+        "value": "http://store.is.autonavi.com/showpic/970accb968319cbff5b87269dbf22e6b",
+        "name": "pic_info"
+      },
+      {
+        "type": "img",
+        "id": "1008",
+        "name": "overbooked"
+      },
+      {
+        "type": "img",
+        "id": "1007",
+        "name": "moreservice"
+      },
+      {
+        "type": "html",
+        "id": "1006",
+        "name": "tag"
+      },
+      {
+        "type": "text",
+        "id": "1005",
+        "name": "parent_info"
+      },
+      {
+        "type": "array",
+        "name": "parent_other_rel",
+        "id": "1004"
+      },
+      {
+        "type": "text",
+        "id": "1010",
+        "name": "business_area"
+      },
+      {
+        "type": "html",
+        "id": "1002",
+        "name": "deepinfo"
+      },
+      {
+        "type": "html",
+        "id": "1001",
+        "name": "price"
+      },
+      {
+        "type": "text",
+        "id": "1013",
+        "name": "aoi"
+      }
+    ],
+    "newtype": "141202",
+    "disp_name": "重庆市渝北区悦来初级中学校",
+    "cpdata": "",
+    "latitude": "29.699309",
+    "discount_flag": "0"
+  },
+  {
+    "rating": "",
+    "tel": "023-81399976",
+    "typecode": "141202",
+    "areacode": "023",
+    "address": "湖影街1号",
+    "cityname": "重庆市",
+    "display_brand": "",
+    "shape_region": "106.579,29.6632,106.581,29.6611",
+    "longitude": "106.579954",
+    "review_total": "2",
+    "cinemazuo_flag": "0",
+    "diner_flag": "0",
+    "id": "B0FFG64B5N",
+    "name": "重庆市八中两江金溪中学校",
+    "group_flag": "0",
+    "distance": "0",
+    "entrances": [
+      {
+        "latitude": "29.661229",
+        "longitude": "106.579776"
+      }
+    ],
+    "recommend_flag": "0",
+    "exits": [],
+    "adcode": "500112",
+    "domain_list": [
+      {
+        "type": "html",
+        "id": "1015",
+        "name": "poiclosed"
+      },
+      {
+        "type": "img",
+        "id": "1003",
+        "name": "icon"
+      },
+      {
+        "type": "html",
+        "id": "1011",
+        "name": "traffic"
+      },
+      {
+        "type": "text",
+        "id": "1014",
+        "name": "roadaoi"
+      },
+      {
+        "type": "button",
+        "id": "1012",
+        "name": "ext_btn"
+      },
+      {
+        "type": "webimg",
+        "id": "1009",
+        "value": "http://store.is.autonavi.com/showpic/3f657a65efa7c04ed409b8d23b50696b",
+        "name": "pic_info"
+      },
+      {
+        "type": "img",
+        "id": "1008",
+        "name": "overbooked"
+      },
+      {
+        "type": "img",
+        "id": "1007",
+        "name": "moreservice"
+      },
+      {
+        "type": "html",
+        "id": "1006",
+        "name": "tag"
+      },
+      {
+        "type": "text",
+        "id": "1005",
+        "name": "parent_info"
+      },
+      {
+        "type": "array",
+        "name": "parent_other_rel",
+        "id": "1004"
+      },
+      {
+        "type": "text",
+        "id": "1010",
+        "name": "business_area"
+      },
+      {
+        "type": "html",
+        "id": "1002",
+        "name": "deepinfo"
+      },
+      {
+        "type": "html",
+        "id": "1001",
+        "name": "price"
+      },
+      {
+        "type": "text",
+        "id": "1013",
+        "value": "106.578526,29.661614_106.578574,29.661492_106.578672,29.661435_106.579277,29.661302_106.580069,29.661165_106.580758,29.661098_106.580834,29.662071_106.581182,29.662474_106.580533,29.662871_106.580006,29.66315_106.578526,29.661614",
+        "name": "aoi"
+      }
+    ],
+    "newtype": "141202",
+    "disp_name": "重庆市八中两江金溪中学校",
+    "cpdata": "",
+    "latitude": "29.662005",
+    "discount_flag": "0"
+  },
+  {
+    "rating": "",
+    "tel": "",
+    "typecode": "141202",
+    "areacode": "023",
+    "address": "祥和路503号",
+    "cityname": "重庆市",
+    "display_brand": "",
+    "shape_region": "106.591,29.7094,106.593,29.7073",
+    "longitude": "106.592359",
+    "review_total": "",
+    "cinemazuo_flag": "0",
+    "diner_flag": "0",
+    "id": "B0HBPZB1HA",
+    "name": "重庆两江新区云创初级中学校",
+    "group_flag": "0",
+    "distance": "0",
+    "entrances": [
+      {
+        "latitude": "29.707991",
+        "longitude": "106.593098"
+      }
+    ],
+    "recommend_flag": "0",
+    "exits": [],
+    "adcode": "500112",
+    "domain_list": [
+      {
+        "type": "html",
+        "id": "1015",
+        "name": "poiclosed"
+      },
+      {
+        "type": "img",
+        "id": "1003",
+        "name": "icon"
+      },
+      {
+        "type": "html",
+        "id": "1011",
+        "name": "traffic"
+      },
+      {
+        "type": "text",
+        "id": "1014",
+        "name": "roadaoi"
+      },
+      {
+        "type": "button",
+        "id": "1012",
+        "name": "ext_btn"
+      },
+      {
+        "type": "webimg",
+        "id": "1009",
+        "value": "http://store.is.autonavi.com/showpic/80c25ec422de441248ef8dd1f2791388",
+        "name": "pic_info"
+      },
+      {
+        "type": "img",
+        "id": "1008",
+        "name": "overbooked"
+      },
+      {
+        "type": "img",
+        "id": "1007",
+        "name": "moreservice"
+      },
+      {
+        "type": "html",
+        "id": "1006",
+        "name": "tag"
+      },
+      {
+        "type": "text",
+        "id": "1005",
+        "value": "查看出入口、停车场",
+        "name": "parent_info"
+      },
+      {
+        "pys": "29.709047+++29.707888",
+        "poiids": "B0H3HHZ7DH+++B0H29C527L",
+        "name": "parent_other_rel",
+        "pxs": "106.592757+++106.592848",
+        "childtype": "31+++31",
+        "poiname": "重庆两江新区云创初级中学校(北门)+++重庆两江新区云创初级中学校(东门)",
+        "address": "祥和路503号重庆两江新区云创初级中学校+++祥和路503号重庆两江新区云创初级中学校",
+        "shortname": "北门+++东门",
+        "type": "array",
+        "id": "1004"
+      },
+      {
+        "type": "text",
+        "id": "1010",
+        "name": "business_area"
+      },
+      {
+        "type": "html",
+        "id": "1002",
+        "name": "deepinfo"
+      },
+      {
+        "type": "html",
+        "id": "1001",
+        "name": "price"
+      },
+      {
+        "type": "text",
+        "id": "1013",
+        "value": "106.59209,29.709381_106.591234,29.708023_106.592591,29.707347_106.593494,29.708787_106.59209,29.709381",
+        "name": "aoi"
+      }
+    ],
+    "newtype": "141202",
+    "disp_name": "重庆两江新区云创初级中学校",
+    "cpdata": "",
+    "latitude": "29.708381",
+    "discount_flag": "0"
+  },
+  {
+    "rating": "",
+    "tel": "",
+    "typecode": "141202",
+    "areacode": "023",
+    "address": "回兴街道宝桐路308号",
+    "cityname": "重庆市",
+    "display_brand": "",
+    "shape_region": "",
+    "longitude": "106.601258",
+    "review_total": "",
+    "cinemazuo_flag": "0",
+    "diner_flag": "0",
+    "id": "B0HUX7L93V",
+    "name": "重庆市南华中学校",
+    "group_flag": "0",
+    "distance": "0",
+    "entrances": [
+      {
+        "latitude": "29.692519",
+        "longitude": "106.601083"
+      }
+    ],
+    "recommend_flag": "0",
+    "exits": [],
+    "adcode": "500112",
+    "domain_list": [
+      {
+        "type": "html",
+        "id": "1015",
+        "name": "poiclosed"
+      },
+      {
+        "type": "img",
+        "id": "1003",
+        "name": "icon"
+      },
+      {
+        "type": "html",
+        "id": "1011",
+        "name": "traffic"
+      },
+      {
+        "type": "text",
+        "id": "1014",
+        "name": "roadaoi"
+      },
+      {
+        "type": "button",
+        "id": "1012",
+        "name": "ext_btn"
+      },
+      {
+        "type": "webimg",
+        "id": "1009",
+        "value": "http://store.is.autonavi.com/showpic/58af97cfbec5d61f0d78d17a4d586fa8",
+        "name": "pic_info"
+      },
+      {
+        "type": "img",
+        "id": "1008",
+        "name": "overbooked"
+      },
+      {
+        "type": "img",
+        "id": "1007",
+        "name": "moreservice"
+      },
+      {
+        "type": "html",
+        "id": "1006",
+        "name": "tag"
+      },
+      {
+        "type": "text",
+        "id": "1005",
+        "name": "parent_info"
+      },
+      {
+        "type": "array",
+        "name": "parent_other_rel",
+        "id": "1004"
+      },
+      {
+        "type": "text",
+        "id": "1010",
+        "name": "business_area"
+      },
+      {
+        "type": "html",
+        "id": "1002",
+        "name": "deepinfo"
+      },
+      {
+        "type": "html",
+        "id": "1001",
+        "name": "price"
+      },
+      {
+        "type": "text",
+        "id": "1013",
+        "name": "aoi"
+      }
+    ],
+    "newtype": "141202",
+    "disp_name": "重庆市南华中学校",
+    "cpdata": "",
+    "latitude": "29.692455",
+    "discount_flag": "0"
+  },
+  {
+    "rating": "",
+    "tel": "",
+    "typecode": "141202",
+    "areacode": "023",
+    "address": "春华大道",
+    "cityname": "重庆市",
+    "display_brand": "",
+    "shape_region": "106.599,29.7038,106.601,29.7027",
+    "longitude": "106.600072",
+    "review_total": "0",
+    "cinemazuo_flag": "0",
+    "diner_flag": "0",
+    "id": "B0FFHCP2LK",
+    "name": "渝北实验中学(翡翠城校区)",
+    "group_flag": "0",
+    "distance": "0",
+    "entrances": [
+      {
+        "latitude": "29.703846",
+        "longitude": "106.600146"
+      }
+    ],
+    "recommend_flag": "0",
+    "exits": [],
+    "adcode": "500112",
+    "domain_list": [
+      {
+        "type": "html",
+        "id": "1015",
+        "name": "poiclosed"
+      },
+      {
+        "type": "img",
+        "id": "1003",
+        "name": "icon"
+      },
+      {
+        "type": "html",
+        "id": "1011",
+        "name": "traffic"
+      },
+      {
+        "type": "text",
+        "id": "1014",
+        "name": "roadaoi"
+      },
+      {
+        "type": "button",
+        "id": "1012",
+        "name": "ext_btn"
+      },
+      {
+        "type": "webimg",
+        "id": "1009",
+        "value": "http://store.is.autonavi.com/showpic/327a2dca30c27755ef851188b9471c5e",
+        "name": "pic_info"
+      },
+      {
+        "type": "img",
+        "id": "1008",
+        "name": "overbooked"
+      },
+      {
+        "type": "img",
+        "id": "1007",
+        "name": "moreservice"
+      },
+      {
+        "type": "html",
+        "id": "1006",
+        "name": "tag"
+      },
+      {
+        "type": "text",
+        "id": "1005",
+        "value": "查看出入口、停车场",
+        "name": "parent_info"
+      },
+      {
+        "pys": "29.703817+++29.703806",
+        "poiids": "B0H39USUIL+++B0IUTA3VTM",
+        "name": "parent_other_rel",
+        "pxs": "106.600139+++106.600781",
+        "childtype": "31+++41",
+        "poiname": "渝北实验中学(北门)+++渝北实验中学(翡翠城校区)内部地面停车场",
+        "address": "翠丹路与春华大道交叉口东80米+++翠丹路与春华大道交叉口东140米",
+        "shortname": "北门+++内部地面停车场",
+        "type": "array",
+        "id": "1004"
+      },
+      {
+        "type": "text",
+        "id": "1010",
+        "name": "business_area"
+      },
+      {
+        "type": "html",
+        "id": "1002",
+        "name": "deepinfo"
+      },
+      {
+        "type": "html",
+        "id": "1001",
+        "name": "price"
+      },
+      {
+        "type": "text",
+        "id": "1013",
+        "value": "106.599291,29.703051_106.599379,29.703038_106.59945,29.702882_106.599528,29.702828_106.599837,29.70274_106.600564,29.702713_106.600619,29.702952_106.600762,29.702916_106.600761,29.70355_106.600751,29.703847_106.599589,29.703843_106.599509,29.703796_106.599434,29.703749_106.599291,29.703051",
+        "name": "aoi"
+      }
+    ],
+    "newtype": "141202",
+    "disp_name": "渝北实验中学(翡翠城校区)",
+    "cpdata": "",
+    "latitude": "29.703303",
+    "discount_flag": "0"
+  },
+  {
+    "rating": "",
+    "tel": "023-63015222",
+    "typecode": "141202",
+    "areacode": "023",
+    "address": "湖霞街2号",
+    "cityname": "重庆市",
+    "display_brand": "",
+    "shape_region": "106.532,29.662,106.537,29.6557",
+    "longitude": "106.534561",
+    "review_total": "2",
+    "cinemazuo_flag": "0",
+    "diner_flag": "0",
+    "id": "B0HDT5KIHZ",
+    "name": "重庆第一双语学校",
+    "group_flag": "0",
+    "distance": "0",
+    "entrances": [
+      {
+        "latitude": "29.657172",
+        "longitude": "106.536405"
+      }
+    ],
+    "recommend_flag": "0",
+    "exits": [],
+    "adcode": "500112",
+    "domain_list": [
+      {
+        "type": "html",
+        "id": "1015",
+        "name": "poiclosed"
+      },
+      {
+        "type": "img",
+        "id": "1003",
+        "name": "icon"
+      },
+      {
+        "type": "html",
+        "id": "1011",
+        "name": "traffic"
+      },
+      {
+        "type": "text",
+        "id": "1014",
+        "name": "roadaoi"
+      },
+      {
+        "type": "button",
+        "id": "1012",
+        "name": "ext_btn"
+      },
+      {
+        "type": "webimg",
+        "id": "1009",
+        "value": "http://store.is.autonavi.com/showpic/4880e8f06a556f9dbea1083f2f2f1a2a",
+        "name": "pic_info"
+      },
+      {
+        "type": "img",
+        "id": "1008",
+        "name": "overbooked"
+      },
+      {
+        "type": "img",
+        "id": "1007",
+        "name": "moreservice"
+      },
+      {
+        "type": "html",
+        "id": "1006",
+        "name": "tag"
+      },
+      {
+        "type": "text",
+        "id": "1005",
+        "name": "parent_info"
+      },
+      {
+        "type": "array",
+        "name": "parent_other_rel",
+        "id": "1004"
+      },
+      {
+        "type": "text",
+        "id": "1010",
+        "name": "business_area"
+      },
+      {
+        "type": "html",
+        "id": "1002",
+        "name": "deepinfo"
+      },
+      {
+        "type": "html",
+        "id": "1001",
+        "name": "price"
+      },
+      {
+        "type": "text",
+        "id": "1013",
+        "value": "106.533683,29.661987_106.534486,29.661666_106.535286,29.661247_106.536129,29.660794_106.536214,29.660404_106.536162,29.660211_106.536142,29.660018_106.536167,29.659603_106.536151,29.659372_106.536075,29.659179_106.536051,29.659051_106.53605,29.658633_106.536085,29.658483_106.53613,29.65839_106.536139,29.658333_106.536139,29.657875_106.536144,29.657714_106.536159,29.657582_106.536195,29.657394_106.536225,29.6573_106.536357,29.656999_106.536457,29.656834_106.536606,29.656633_106.536704,29.656481_106.536812,29.656285_106.536906,29.656105_106.536937,29.655916_106.536905,29.655856_106.535319,29.655858_106.535317,29.655834_106.534258,29.655851_106.534094,29.655771_106.53386,29.655749_106.533803,29.655925_106.533697,29.656123_106.533386,29.6567_106.533325,29.656828_106.533267,29.656963_106.532927,29.657508_106.532711,29.658009_106.532497,29.658604_106.532499,29.658946_106.532515,29.659359_106.532663,29.659848_106.532757,29.660064_106.533267,29.661134_106.533462,29.661564_106.533683,29.661987",
+        "name": "aoi"
+      }
+    ],
+    "newtype": "141202",
+    "disp_name": "重庆第一双语学校",
+    "cpdata": "",
+    "latitude": "29.658648",
+    "discount_flag": "0"
+  },
+  {
+    "rating": "",
+    "tel": "023-67192318;023-67453901",
+    "typecode": "141202",
+    "areacode": "023",
+    "address": "宝圣大道207号",
+    "cityname": "重庆市",
+    "display_brand": "",
+    "shape_region": "106.589,29.6603,106.593,29.657",
+    "longitude": "106.591183",
+    "review_total": "7",
+    "cinemazuo_flag": "0",
+    "diner_flag": "0",
+    "id": "B00178UFD0",
+    "name": "重庆市两江中学校",
+    "group_flag": "0",
+    "distance": "0",
+    "entrances": [
+      {
+        "latitude": "29.657632",
+        "longitude": "106.593197"
+      }
+    ],
+    "recommend_flag": "0",
+    "exits": [],
+    "adcode": "500112",
+    "domain_list": [
+      {
+        "type": "html",
+        "id": "1015",
+        "name": "poiclosed"
+      },
+      {
+        "type": "img",
+        "id": "1003",
+        "name": "icon"
+      },
+      {
+        "type": "html",
+        "id": "1011",
+        "name": "traffic"
+      },
+      {
+        "type": "text",
+        "id": "1014",
+        "name": "roadaoi"
+      },
+      {
+        "type": "button",
+        "id": "1012",
+        "name": "ext_btn"
+      },
+      {
+        "type": "webimg",
+        "id": "1009",
+        "value": "http://store.is.autonavi.com/showpic/52c7a0ec2f69d2e234d08a29a9c4bf47",
+        "name": "pic_info"
+      },
+      {
+        "type": "img",
+        "id": "1008",
+        "name": "overbooked"
+      },
+      {
+        "type": "img",
+        "id": "1007",
+        "name": "moreservice"
+      },
+      {
+        "type": "html",
+        "id": "1006",
+        "name": "tag"
+      },
+      {
+        "type": "text",
+        "id": "1005",
+        "value": "查看出入口、停车场",
+        "name": "parent_info"
+      },
+      {
+        "pys": "29.657669",
+        "poiids": "B0FFH033UD",
+        "name": "parent_other_rel",
+        "pxs": "106.593130",
+        "childtype": "31",
+        "poiname": "重庆市两江中学校(东南门)",
+        "address": "宝圣大道207号重庆市两江中学校",
+        "shortname": "东南门",
+        "type": "array",
+        "id": "1004"
+      },
+      {
+        "type": "text",
+        "id": "1010",
+        "name": "business_area"
+      },
+      {
+        "type": "html",
+        "id": "1002",
+        "name": "deepinfo"
+      },
+      {
+        "type": "html",
+        "id": "1001",
+        "name": "price"
+      },
+      {
+        "type": "text",
+        "id": "1013",
+        "value": "106.589933,29.660271_106.590599,29.659939_106.590664,29.6597_106.590672,29.659568_106.59344,29.658212_106.593438,29.658195_106.593075,29.657595_106.5927,29.656973_106.592681,29.656967_106.592655,29.656968_106.591423,29.657547_106.590984,29.657782_106.590827,29.657878_106.589977,29.658288_106.589355,29.65861_106.589296,29.658649_106.589282,29.658668_106.589159,29.659135_106.589158,29.659194_106.589164,29.659215_106.58989,29.660263_106.589933,29.660271",
+        "name": "aoi"
+      }
+    ],
+    "newtype": "141202",
+    "disp_name": "重庆市两江中学校",
+    "cpdata": "",
+    "latitude": "29.658555",
+    "discount_flag": "0"
+  },
+  {
+    "rating": "",
+    "tel": "",
+    "typecode": "140000",
+    "areacode": "023",
+    "address": "椿萱大道辅路与秋成大道交叉口西420米",
+    "cityname": "重庆市",
+    "display_brand": "",
+    "shape_region": "106.565,29.7364,106.569,29.733",
+    "longitude": "106.566965",
+    "review_total": "2",
+    "cinemazuo_flag": "0",
+    "diner_flag": "0",
+    "id": "B0FFIWO4IK",
+    "name": "重庆八中数据谷实验中学",
+    "group_flag": "0",
+    "distance": "0",
+    "entrances": [
+      {
+        "latitude": "29.733406",
+        "longitude": "106.56814"
+      }
+    ],
+    "recommend_flag": "0",
+    "exits": [],
+    "adcode": "500112",
+    "domain_list": [
+      {
+        "type": "html",
+        "id": "1015",
+        "name": "poiclosed"
+      },
+      {
+        "type": "img",
+        "id": "1003",
+        "name": "icon"
+      },
+      {
+        "type": "html",
+        "id": "1011",
+        "name": "traffic"
+      },
+      {
+        "type": "text",
+        "id": "1014",
+        "name": "roadaoi"
+      },
+      {
+        "type": "button",
+        "id": "1012",
+        "name": "ext_btn"
+      },
+      {
+        "type": "webimg",
+        "id": "1009",
+        "value": "http://store.is.autonavi.com/showpic/9542ecfd13ac1973d9c883faad4e3b2e",
+        "name": "pic_info"
+      },
+      {
+        "type": "img",
+        "id": "1008",
+        "name": "overbooked"
+      },
+      {
+        "type": "img",
+        "id": "1007",
+        "name": "moreservice"
+      },
+      {
+        "type": "html",
+        "id": "1006",
+        "name": "tag"
+      },
+      {
+        "type": "text",
+        "id": "1005",
+        "name": "parent_info"
+      },
+      {
+        "type": "array",
+        "name": "parent_other_rel",
+        "id": "1004"
+      },
+      {
+        "type": "text",
+        "id": "1010",
+        "name": "business_area"
+      },
+      {
+        "type": "html",
+        "id": "1002",
+        "name": "deepinfo"
+      },
+      {
+        "type": "html",
+        "id": "1001",
+        "name": "price"
+      },
+      {
+        "type": "text",
+        "id": "1013",
+        "value": "106.565593,29.733101_106.565609,29.73308_106.565628,29.733063_106.565654,29.733049_106.565695,29.733042_106.567527,29.733247_106.567819,29.733289_106.568077,29.733334_106.568586,29.733431_106.568993,29.73357_106.569065,29.733602_106.5691,29.73363_106.569138,29.733679_106.569151,29.733712_106.569151,29.733745_106.568569,29.736122_106.568556,29.736171_106.568545,29.73619_106.568526,29.736204_106.568502,29.736213_106.568052,29.736169_106.567936,29.736164_106.567851,29.736164_106.567757,29.736169_106.567668,29.736178_106.566467,29.736315_106.565227,29.736378_106.565144,29.736367_106.565066,29.736332_106.565007,29.736285_106.564954,29.736227_106.564911,29.736171_106.564879,29.736115_106.56487,29.736071_106.564868,29.736015_106.565593,29.733101",
+        "name": "aoi"
+      }
+    ],
+    "newtype": "140000",
+    "disp_name": "重庆八中数据谷实验中学",
+    "cpdata": "",
+    "latitude": "29.734764",
+    "discount_flag": "0"
+  },
+  {
+    "rating": "",
+    "tel": "",
+    "typecode": "140000",
+    "areacode": "023",
+    "address": "鹿郑循环路",
+    "cityname": "重庆市",
+    "display_brand": "",
+    "shape_region": "",
+    "longitude": "106.567910",
+    "review_total": "1",
+    "cinemazuo_flag": "0",
+    "diner_flag": "0",
+    "id": "B0FFLC8JFB",
+    "name": "重庆市渝北区数据谷中学校",
+    "group_flag": "0",
+    "distance": "0",
+    "entrances": [
+      {
+        "latitude": "29.733408",
+        "longitude": "106.568138"
+      }
+    ],
+    "recommend_flag": "0",
+    "exits": [],
+    "adcode": "500112",
+    "domain_list": [
+      {
+        "type": "html",
+        "id": "1015",
+        "name": "poiclosed"
+      },
+      {
+        "type": "img",
+        "id": "1003",
+        "name": "icon"
+      },
+      {
+        "type": "html",
+        "id": "1011",
+        "name": "traffic"
+      },
+      {
+        "type": "text",
+        "id": "1014",
+        "name": "roadaoi"
+      },
+      {
+        "type": "button",
+        "id": "1012",
+        "name": "ext_btn"
+      },
+      {
+        "type": "webimg",
+        "id": "1009",
+        "value": "http://store.is.autonavi.com/showpic/934a6e89f19341c553816ed149d67214",
+        "name": "pic_info"
+      },
+      {
+        "type": "img",
+        "id": "1008",
+        "name": "overbooked"
+      },
+      {
+        "type": "img",
+        "id": "1007",
+        "name": "moreservice"
+      },
+      {
+        "type": "html",
+        "id": "1006",
+        "name": "tag"
+      },
+      {
+        "type": "text",
+        "id": "1005",
+        "value": "查看出入口、停车场",
+        "name": "parent_info"
+      },
+      {
+        "pys": "29.733494",
+        "poiids": "B0FFLEQT7J",
+        "name": "parent_other_rel",
+        "pxs": "106.568125",
+        "childtype": "31",
+        "poiname": "重庆市渝北区数据谷中学校(南门)",
+        "address": "椿萱大道辅路与秋成大道交叉口西280米",
+        "shortname": "南门",
+        "type": "array",
+        "id": "1004"
+      },
+      {
+        "type": "text",
+        "id": "1010",
+        "name": "business_area"
+      },
+      {
+        "type": "html",
+        "id": "1002",
+        "name": "deepinfo"
+      },
+      {
+        "type": "html",
+        "id": "1001",
+        "name": "price"
+      },
+      {
+        "type": "text",
+        "id": "1013",
+        "name": "aoi"
+      }
+    ],
+    "newtype": "140000",
+    "disp_name": "重庆市渝北区数据谷中学校",
+    "cpdata": "",
+    "latitude": "29.734798",
+    "discount_flag": "0"
+  },
+  {
+    "rating": "",
+    "tel": "023-67203888",
+    "typecode": "141202",
+    "areacode": "023",
+    "address": "空港新城中央公园北路8号",
+    "cityname": "重庆市",
+    "display_brand": "",
+    "shape_region": "106.596,29.7295,106.602,29.7252",
+    "longitude": "106.599162",
+    "review_total": "19",
+    "cinemazuo_flag": "0",
+    "diner_flag": "0",
+    "id": "B0FFG8JFHX",
+    "name": "重庆市第八中学校",
+    "group_flag": "0",
+    "distance": "0",
+    "entrances": [
+      {
+        "latitude": "29.726150",
+        "longitude": "106.598262"
+      }
+    ],
+    "recommend_flag": "0",
+    "exits": [],
+    "adcode": "500112",
+    "domain_list": [
+      {
+        "type": "html",
+        "id": "1015",
+        "name": "poiclosed"
+      },
+      {
+        "type": "img",
+        "id": "1003",
+        "name": "icon"
+      },
+      {
+        "type": "html",
+        "id": "1011",
+        "name": "traffic"
+      },
+      {
+        "type": "text",
+        "id": "1014",
+        "name": "roadaoi"
+      },
+      {
+        "type": "button",
+        "id": "1012",
+        "name": "ext_btn"
+      },
+      {
+        "type": "webimg",
+        "id": "1009",
+        "value": "http://store.is.autonavi.com/showpic/0cc3d902f87c11dea488ba00a46f20d7",
+        "name": "pic_info"
+      },
+      {
+        "type": "img",
+        "id": "1008",
+        "name": "overbooked"
+      },
+      {
+        "type": "img",
+        "id": "1007",
+        "name": "moreservice"
+      },
+      {
+        "type": "html",
+        "id": "1006",
+        "name": "tag"
+      },
+      {
+        "type": "text",
+        "id": "1005",
+        "value": "查看出入口、停车场",
+        "name": "parent_info"
+      },
+      {
+        "pys": "29.729460+++29.726195+++29.729306",
+        "poiids": "B0FFI9K8A6+++B0FFI9K9C9+++B0FFI9K53X",
+        "name": "parent_other_rel",
+        "pxs": "106.599109+++106.598289+++106.596689",
+        "childtype": "31+++31+++41",
+        "poiname": "重庆市第八中学校(北门)+++重庆市第八中学校(西南门)+++重庆市第八中学9号楼停车场",
+        "address": "中央公园北路与同辉路交叉口东北400米+++空港新城中央公园北路8号重庆市第八中学校+++中央公园北路与同辉路交叉口北240米",
+        "shortname": "北门+++西南门+++停车场",
+        "type": "array",
+        "id": "1004"
+      },
+      {
+        "type": "text",
+        "id": "1010",
+        "name": "business_area"
+      },
+      {
+        "type": "html",
+        "id": "1002",
+        "name": "deepinfo"
+      },
+      {
+        "type": "html",
+        "id": "1001",
+        "name": "price"
+      },
+      {
+        "type": "text",
+        "id": "1013",
+        "value": "106.596277,29.729264_106.596257,29.729262_106.596236,29.729257_106.596215,29.729245_106.596202,29.729231_106.596193,29.72922_106.596184,29.729203_106.596177,29.729177_106.596207,29.728248_106.596177,29.727294_106.596175,29.727283_106.596176,29.727272_106.596178,29.727263_106.596182,29.727255_106.596186,29.727246_106.596192,29.727237_106.596202,29.727229_106.596212,29.727222_106.596221,29.727217_106.596652,29.726987_106.597984,29.726324_106.599154,29.725754_106.600311,29.725181_106.600333,29.725175_106.600354,29.725173_106.600376,29.725171_106.600394,29.725174_106.600405,29.725178_106.600417,29.725185_106.600428,29.725197_106.600436,29.725209_106.601528,29.72679_106.601892,29.727856_106.602076,29.728936_106.602079,29.728949_106.602079,29.728963_106.602076,29.728974_106.602071,29.728986_106.602057,29.728996_106.602041,29.729004_106.601449,29.729144_106.600855,29.729276_106.600283,29.729386_106.599697,29.729479_106.599053,29.729497_106.596277,29.729264",
+        "name": "aoi"
+      }
+    ],
+    "newtype": "141202",
+    "disp_name": "重庆市第八中学校",
+    "cpdata": "",
+    "latitude": "29.727723",
+    "discount_flag": "0"
+  },
+  {
+    "rating": "",
+    "tel": "023-66821500",
+    "typecode": "141202",
+    "areacode": "023",
+    "address": "一碗水双湖路266号",
+    "cityname": "重庆市",
+    "display_brand": "",
+    "shape_region": "106.613,29.6915,106.616,29.6877",
+    "longitude": "106.614336",
+    "review_total": "4",
+    "cinemazuo_flag": "0",
+    "diner_flag": "0",
+    "id": "B0017010C2",
+    "name": "重庆一中寄宿学校",
+    "group_flag": "0",
+    "distance": "0",
+    "entrances": [
+      {
+        "latitude": "29.69012",
+        "longitude": "106.616317"
+      }
+    ],
+    "recommend_flag": "0",
+    "exits": [],
+    "adcode": "500112",
+    "domain_list": [
+      {
+        "type": "html",
+        "id": "1015",
+        "name": "poiclosed"
+      },
+      {
+        "type": "img",
+        "id": "1003",
+        "name": "icon"
+      },
+      {
+        "type": "html",
+        "id": "1011",
+        "name": "traffic"
+      },
+      {
+        "type": "text",
+        "id": "1014",
+        "name": "roadaoi"
+      },
+      {
+        "type": "button",
+        "id": "1012",
+        "name": "ext_btn"
+      },
+      {
+        "type": "webimg",
+        "id": "1009",
+        "value": "http://store.is.autonavi.com/showpic/113fc650aebe47fc8e0817fa16ae299e",
+        "name": "pic_info"
+      },
+      {
+        "type": "img",
+        "id": "1008",
+        "name": "overbooked"
+      },
+      {
+        "type": "img",
+        "id": "1007",
+        "name": "moreservice"
+      },
+      {
+        "type": "html",
+        "id": "1006",
+        "name": "tag"
+      },
+      {
+        "type": "text",
+        "id": "1005",
+        "value": "查看出入口、停车场",
+        "name": "parent_info"
+      },
+      {
+        "pys": "29.691156+++29.690125+++29.689817",
+        "poiids": "B0H2OZBRCZ+++B0017877IQ+++B0FFKUS5C6",
+        "name": "parent_other_rel",
+        "pxs": "106.615173+++106.616137+++106.613106",
+        "childtype": "31+++31+++31",
+        "poiname": "重庆一中寄宿学校(西北门)+++重庆一中寄宿学校(东门)+++重庆一中寄宿学校(西门)",
+        "address": "高岩支路与双湖路交叉口西北140米+++双湖路266号重庆一中寄宿学校+++双湖路266号重庆一中寄宿学校",
+        "shortname": "西北门+++东门+++西门",
+        "type": "array",
+        "id": "1004"
+      },
+      {
+        "type": "text",
+        "id": "1010",
+        "name": "business_area"
+      },
+      {
+        "type": "html",
+        "id": "1002",
+        "name": "deepinfo"
+      },
+      {
+        "type": "html",
+        "id": "1001",
+        "name": "price"
+      },
+      {
+        "type": "text",
+        "id": "1013",
+        "value": "106.613327,29.691445_106.613351,29.691451_106.614327,29.691378_106.614341,29.691359_106.614354,29.691354_106.614952,29.69132_106.615008,29.69132_106.615037,29.69131_106.6151,29.691266_106.615145,29.691244_106.615198,29.691228_106.615613,29.691184_106.615691,29.691157_106.615732,29.691125_106.615771,29.691075_106.615801,29.691005_106.615798,29.690879_106.615783,29.690749_106.615784,29.690681_106.615798,29.6906_106.615819,29.690528_106.615837,29.690493_106.61587,29.69047_106.615924,29.690449_106.616221,29.6904_106.616257,29.690388_106.616283,29.690371_106.616312,29.690347_106.616324,29.690324_106.616302,29.690037_106.616294,29.690027_106.616276,29.690019_106.615433,29.690092_106.615405,29.690093_106.615385,29.690088_106.615361,29.690073_106.615338,29.690048_106.61526,29.689066_106.615178,29.688149_106.615089,29.687888_106.61497,29.687733_106.614956,29.687725_106.613825,29.688038_106.612928,29.688236_106.612924,29.688249_106.613102,29.689745_106.613184,29.690429_106.613308,29.691429_106.613327,29.691445",
+        "name": "aoi"
+      }
+    ],
+    "newtype": "141202",
+    "disp_name": "重庆一中寄宿学校",
+    "cpdata": "",
+    "latitude": "29.689719",
+    "discount_flag": "0"
+  },
+  {
+    "rating": "",
+    "tel": "",
+    "typecode": "141202",
+    "areacode": "023",
+    "address": "礼义路",
+    "cityname": "重庆市",
+    "display_brand": "",
+    "shape_region": "106.509,29.6738,106.513,29.6704",
+    "longitude": "106.511620",
+    "review_total": "3",
+    "cinemazuo_flag": "0",
+    "diner_flag": "0",
+    "id": "B0FFIA8RQN",
+    "name": "两江巴蜀中学",
+    "group_flag": "0",
+    "distance": "0",
+    "entrances": [
+      {
+        "latitude": "29.67328",
+        "longitude": "106.51149"
+      }
+    ],
+    "recommend_flag": "0",
+    "exits": [],
+    "adcode": "500112",
+    "domain_list": [
+      {
+        "type": "html",
+        "id": "1015",
+        "name": "poiclosed"
+      },
+      {
+        "type": "img",
+        "id": "1003",
+        "name": "icon"
+      },
+      {
+        "type": "html",
+        "id": "1011",
+        "name": "traffic"
+      },
+      {
+        "type": "text",
+        "id": "1014",
+        "name": "roadaoi"
+      },
+      {
+        "type": "button",
+        "id": "1012",
+        "name": "ext_btn"
+      },
+      {
+        "type": "webimg",
+        "id": "1009",
+        "value": "http://store.is.autonavi.com/showpic/36406c606be2273305ef798dfe9fbffc",
+        "name": "pic_info"
+      },
+      {
+        "type": "img",
+        "id": "1008",
+        "name": "overbooked"
+      },
+      {
+        "type": "img",
+        "id": "1007",
+        "name": "moreservice"
+      },
+      {
+        "type": "html",
+        "id": "1006",
+        "name": "tag"
+      },
+      {
+        "type": "text",
+        "id": "1005",
+        "value": "查看出入口、停车场",
+        "name": "parent_info"
+      },
+      {
+        "pys": "29.673232+++29.672304",
+        "poiids": "B0H0OC1BX3+++B0H07R6BWG",
+        "name": "parent_other_rel",
+        "pxs": "106.511452+++106.510658",
+        "childtype": "31+++31",
+        "poiname": "两江巴蜀中学(东北门)+++两江巴蜀中学(西南门)",
+        "address": "礼义路与礼勤路交叉口东南120米+++嘉祥路与礼勤路交叉口东南160米",
+        "shortname": "东北门+++西南门",
+        "type": "array",
+        "id": "1004"
+      },
+      {
+        "type": "text",
+        "id": "1010",
+        "name": "business_area"
+      },
+      {
+        "type": "html",
+        "id": "1002",
+        "name": "deepinfo"
+      },
+      {
+        "type": "html",
+        "id": "1001",
+        "name": "price"
+      },
+      {
+        "type": "text",
+        "id": "1013",
+        "value": "106.509417,29.672968_106.510092,29.672599_106.510556,29.672357_106.510978,29.672076_106.51114,29.67196_106.511268,29.671851_106.511417,29.671685_106.511767,29.671034_106.512009,29.670463_106.512035,29.670424_106.512087,29.670387_106.512142,29.670374_106.512184,29.670373_106.512236,29.670383_106.512321,29.670417_106.512529,29.670533_106.51288,29.6708_106.513039,29.67099_106.513131,29.671139_106.513231,29.671347_106.513269,29.671448_106.513286,29.671519_106.513287,29.671619_106.513273,29.671721_106.513231,29.671825_106.513145,29.67196_106.513095,29.672026_106.513055,29.672071_106.512692,29.672345_106.512379,29.672577_106.511454,29.673237_106.510675,29.673801_106.510558,29.673788_106.510109,29.673451_106.509423,29.673026_106.509417,29.672968",
+        "name": "aoi"
+      }
+    ],
+    "newtype": "141202",
+    "disp_name": "两江巴蜀中学",
+    "cpdata": "",
+    "latitude": "29.672182",
+    "discount_flag": "0"
+  },
+  {
+    "rating": "",
+    "tel": "",
+    "typecode": "141202",
+    "areacode": "023",
+    "address": "重庆市十八中",
+    "cityname": "重庆市",
+    "display_brand": "",
+    "shape_region": "",
+    "longitude": "106.593048",
+    "review_total": "",
+    "cinemazuo_flag": "0",
+    "diner_flag": "0",
+    "id": "B0FFL17434",
+    "name": "两江中学(西政附中)",
+    "group_flag": "0",
+    "distance": "0",
+    "entrances": [
+      {
+        "latitude": "29.657644",
+        "longitude": "106.593182"
+      }
+    ],
+    "recommend_flag": "0",
+    "exits": [],
+    "adcode": "500112",
+    "domain_list": [
+      {
+        "type": "html",
+        "id": "1015",
+        "name": "poiclosed"
+      },
+      {
+        "type": "img",
+        "id": "1003",
+        "name": "icon"
+      },
+      {
+        "type": "html",
+        "id": "1011",
+        "name": "traffic"
+      },
+      {
+        "type": "text",
+        "id": "1014",
+        "name": "roadaoi"
+      },
+      {
+        "type": "button",
+        "id": "1012",
+        "name": "ext_btn"
+      },
+      {
+        "type": "webimg",
+        "id": "1009",
+        "value": "http://store.is.autonavi.com/showpic/0fd0c57aa25412769c49bd1b7f0df716",
+        "name": "pic_info"
+      },
+      {
+        "type": "img",
+        "id": "1008",
+        "name": "overbooked"
+      },
+      {
+        "type": "img",
+        "id": "1007",
+        "name": "moreservice"
+      },
+      {
+        "type": "html",
+        "id": "1006",
+        "name": "tag"
+      },
+      {
+        "type": "text",
+        "id": "1005",
+        "name": "parent_info"
+      },
+      {
+        "type": "array",
+        "name": "parent_other_rel",
+        "id": "1004"
+      },
+      {
+        "type": "text",
+        "id": "1010",
+        "name": "business_area"
+      },
+      {
+        "type": "html",
+        "id": "1002",
+        "name": "deepinfo"
+      },
+      {
+        "type": "html",
+        "id": "1001",
+        "name": "price"
+      },
+      {
+        "type": "text",
+        "id": "1013",
+        "name": "aoi"
+      }
+    ],
+    "newtype": "141202",
+    "disp_name": "两江中学(西政附中)",
+    "cpdata": "",
+    "latitude": "29.657980",
+    "discount_flag": "0"
+  },
+  {
+    "rating": "",
+    "tel": "023-67800598",
+    "typecode": "141202",
+    "areacode": "023",
+    "address": "双龙湖街道龙吉街98号",
+    "cityname": "重庆市",
+    "display_brand": "",
+    "shape_region": "106.622,29.7138,106.625,29.7114",
+    "longitude": "106.623432",
+    "review_total": "1",
+    "cinemazuo_flag": "0",
+    "diner_flag": "0",
+    "id": "B0017013D6",
+    "name": "重庆市暨华中学校",
+    "group_flag": "0",
+    "distance": "0",
+    "entrances": [
+      {
+        "latitude": "29.712425",
+        "longitude": "106.621977"
+      }
+    ],
+    "recommend_flag": "0",
+    "exits": [],
+    "adcode": "500112",
+    "domain_list": [
+      {
+        "type": "html",
+        "id": "1015",
+        "name": "poiclosed"
+      },
+      {
+        "type": "img",
+        "id": "1003",
+        "name": "icon"
+      },
+      {
+        "type": "html",
+        "id": "1011",
+        "name": "traffic"
+      },
+      {
+        "type": "text",
+        "id": "1014",
+        "name": "roadaoi"
+      },
+      {
+        "type": "button",
+        "id": "1012",
+        "name": "ext_btn"
+      },
+      {
+        "type": "webimg",
+        "id": "1009",
+        "value": "http://store.is.autonavi.com/showpic/557a7c37a3109f1e8a1837e3",
+        "name": "pic_info"
+      },
+      {
+        "type": "img",
+        "id": "1008",
+        "name": "overbooked"
+      },
+      {
+        "type": "img",
+        "id": "1007",
+        "name": "moreservice"
+      },
+      {
+        "type": "html",
+        "id": "1006",
+        "name": "tag"
+      },
+      {
+        "type": "text",
+        "id": "1005",
+        "value": "查看出入口、停车场",
+        "name": "parent_info"
+      },
+      {
+        "pys": "29.712450",
+        "poiids": "B0FFG401B4",
+        "name": "parent_other_rel",
+        "pxs": "106.622018",
+        "childtype": "31",
+        "poiname": "重庆市暨华中学校(西南门)",
+        "address": "双龙湖街道龙吉街98号重庆市暨华中学校",
+        "shortname": "西南门",
+        "type": "array",
+        "id": "1004"
+      },
+      {
+        "type": "text",
+        "id": "1010",
+        "name": "business_area"
+      },
+      {
+        "type": "html",
+        "id": "1002",
+        "name": "deepinfo"
+      },
+      {
+        "type": "html",
+        "id": "1001",
+        "name": "price"
+      },
+      {
+        "type": "text",
+        "id": "1013",
+        "value": "106.624892,29.71373_106.624361,29.712712_106.623562,29.712479_106.623591,29.712025_106.623004,29.712009_106.623251,29.711552_106.622961,29.711433_106.622266,29.712607_106.622467,29.71268_106.622561,29.712815_106.622661,29.713777_106.624884,29.713751_106.624892,29.71373",
+        "name": "aoi"
+      }
+    ],
+    "newtype": "141202",
+    "disp_name": "重庆市暨华中学校",
+    "cpdata": "",
+    "latitude": "29.712931",
+    "discount_flag": "0"
+  },
+  {
+    "rating": "",
+    "tel": "",
+    "typecode": "141200",
+    "areacode": "023",
+    "address": "鸳鸯街道湖映路299号",
+    "cityname": "重庆市",
+    "display_brand": "",
+    "shape_region": "106.522,29.654,106.525,29.6515",
+    "longitude": "106.523007",
+    "review_total": "0",
+    "cinemazuo_flag": "0",
+    "diner_flag": "0",
+    "id": "B0FFMAC7QV",
+    "name": "重庆两江新区西南大学附属中学(金洲校区)",
+    "group_flag": "0",
+    "distance": "0",
+    "entrances": [
+      {
+        "latitude": "29.653898",
+        "longitude": "106.522947"
+      }
+    ],
+    "recommend_flag": "0",
+    "exits": [],
+    "adcode": "500112",
+    "domain_list": [
+      {
+        "type": "html",
+        "id": "1015",
+        "name": "poiclosed"
+      },
+      {
+        "type": "img",
+        "id": "1003",
+        "name": "icon"
+      },
+      {
+        "type": "html",
+        "id": "1011",
+        "name": "traffic"
+      },
+      {
+        "type": "text",
+        "id": "1014",
+        "name": "roadaoi"
+      },
+      {
+        "type": "button",
+        "id": "1012",
+        "name": "ext_btn"
+      },
+      {
+        "type": "webimg",
+        "id": "1009",
+        "value": "http://store.is.autonavi.com/showpic/a01e273622a3323d6f44916239bcab01",
+        "name": "pic_info"
+      },
+      {
+        "type": "img",
+        "id": "1008",
+        "name": "overbooked"
+      },
+      {
+        "type": "img",
+        "id": "1007",
+        "name": "moreservice"
+      },
+      {
+        "type": "html",
+        "id": "1006",
+        "name": "tag"
+      },
+      {
+        "type": "text",
+        "id": "1005",
+        "value": "查看出入口、停车场",
+        "name": "parent_info"
+      },
+      {
+        "pys": "29.651776+++29.653849+++29.651806",
+        "poiids": "B0G2HDOD3B+++B0H337XWA7+++B0FFMB1RL8",
+        "name": "parent_other_rel",
+        "pxs": "106.523022+++106.523003+++106.523248",
+        "childtype": "41+++31+++31",
+        "poiname": "两江新区西南大学附中(初中部)停车场+++重庆两江新区西南大学附属中学校北校区(西北门)+++西南大学附属中学(南门)",
+        "address": "鸳鸯街道湖映路299号重庆两江新区西南大学附属中学(金洲校区)+++黄桷南路与湖红路交叉口东160米+++鸳鸯街道湖映路299号重庆两江新区西南大学附属中学(金洲校区)",
+        "shortname": "停车场+++西北门+++南门",
+        "type": "array",
+        "id": "1004"
+      },
+      {
+        "type": "text",
+        "id": "1010",
+        "name": "business_area"
+      },
+      {
+        "type": "html",
+        "id": "1002",
+        "name": "deepinfo"
+      },
+      {
+        "type": "html",
+        "id": "1001",
+        "name": "price"
+      },
+      {
+        "type": "text",
+        "id": "1013",
+        "value": "106.521634,29.653198_106.522114,29.651518_106.524518,29.651973_106.523697,29.653967_106.521782,29.653432_106.521634,29.653198",
+        "name": "aoi"
+      }
+    ],
+    "newtype": "141200",
+    "disp_name": "重庆两江新区西南大学附属中学(金洲校区)",
+    "cpdata": "",
+    "latitude": "29.652694",
+    "discount_flag": "0"
+  },
+  {
+    "rating": "",
+    "tel": "023-67469292;023-67469393",
+    "typecode": "141202",
+    "areacode": "023",
+    "address": "金福路1号",
+    "cityname": "重庆市",
+    "display_brand": "",
+    "shape_region": "106.553,29.6381,106.558,29.6339",
+    "longitude": "106.555578",
+    "review_total": "3",
+    "cinemazuo_flag": "0",
+    "diner_flag": "0",
+    "id": "B00178UHYI",
+    "name": "重庆市为明学校",
+    "group_flag": "0",
+    "distance": "0",
+    "entrances": [
+      {
+        "latitude": "29.636638",
+        "longitude": "106.556073"
+      }
+    ],
+    "recommend_flag": "0",
+    "exits": [],
+    "adcode": "500112",
+    "domain_list": [
+      {
+        "type": "html",
+        "id": "1015",
+        "name": "poiclosed"
+      },
+      {
+        "type": "img",
+        "id": "1003",
+        "name": "icon"
+      },
+      {
+        "type": "html",
+        "id": "1011",
+        "name": "traffic"
+      },
+      {
+        "type": "text",
+        "id": "1014",
+        "name": "roadaoi"
+      },
+      {
+        "type": "button",
+        "id": "1012",
+        "name": "ext_btn"
+      },
+      {
+        "type": "webimg",
+        "id": "1009",
+        "value": "http://store.is.autonavi.com/showpic/9a8130de9c120f66968dacc03f6acc2a",
+        "name": "pic_info"
+      },
+      {
+        "type": "img",
+        "id": "1008",
+        "name": "overbooked"
+      },
+      {
+        "type": "img",
+        "id": "1007",
+        "name": "moreservice"
+      },
+      {
+        "type": "html",
+        "id": "1006",
+        "name": "tag"
+      },
+      {
+        "type": "text",
+        "id": "1005",
+        "value": "查看出入口、停车场",
+        "name": "parent_info"
+      },
+      {
+        "pys": "29.634184+++29.635412+++29.636601",
+        "poiids": "B001791RF6+++B0FFHCQ7IM+++B0FFHCQYTV",
+        "name": "parent_other_rel",
+        "pxs": "106.556485+++106.555802+++106.555945",
+        "childtype": "31+++31+++31",
+        "poiname": "重庆市为明学校(南门)+++重庆为明学校(西北门)+++重庆为明学校(东1门)",
+        "address": "金福路1号重庆市为明学校+++金福路1号重庆市为明学校+++金福路1号重庆市为明学校",
+        "shortname": "南门+++西北门+++东1门",
+        "type": "array",
+        "id": "1004"
+      },
+      {
+        "type": "text",
+        "id": "1010",
+        "name": "business_area"
+      },
+      {
+        "type": "html",
+        "id": "1002",
+        "name": "deepinfo"
+      },
+      {
+        "type": "html",
+        "id": "1001",
+        "name": "price"
+      },
+      {
+        "type": "text",
+        "id": "1013",
+        "value": "106.556198,29.633892_106.557995,29.634841_106.558015,29.634864_106.55803,29.634894_106.558044,29.634922_106.558055,29.634954_106.55806,29.634981_106.558059,29.635014_106.558052,29.635039_106.558039,29.635065_106.555787,29.636767_106.555771,29.636782_106.555758,29.636802_106.555744,29.636825_106.555726,29.636862_106.555711,29.636902_106.555618,29.637256_106.555616,29.6373_106.555617,29.637339_106.555621,29.63739_106.555632,29.637446_106.555644,29.637495_106.555657,29.637529_106.555693,29.637602_106.55574,29.637693_106.555787,29.637757_106.555832,29.637806_106.555875,29.637848_106.555891,29.637867_106.555891,29.637891_106.555883,29.637907_106.555867,29.637919_106.555839,29.637934_106.555812,29.637939_106.555791,29.637941_106.554256,29.638136_106.554239,29.638134_106.55423,29.638125_106.554223,29.638111_106.554113,29.637944_106.554075,29.637902_106.554045,29.637871_106.553996,29.63783_106.553948,29.63779_106.553898,29.637759_106.553845,29.637728_106.553763,29.637695_106.553697,29.637674_106.553594,29.637653_106.553539,29.637646_106.553416,29.637643_106.5533,29.637656_106.553111,29.6377_106.553099,29.637701_106.55309,29.637695_106.55308,29.637686_106.553027,29.637543_106.553025,29.637532_106.553029,29.637522_106.553047,29.637511_106.553236,29.637459_106.553249,29.637452_106.553259,29.637442_106.553279,29.637348_106.553287,29.637337_106.553299,29.63733_106.553315,29.637326_106.553712,29.63723_106.553746,29.637227_106.553778,29.637227_106.554113,29.63722_106.554168,29.637214_106.554228,29.6372_106.554299,29.637182_106.554365,29.637164_106.554417,29.637143_106.554463,29.637116_106.554497,29.637087_106.554596,29.636987_106.554608,29.636964_106.554609,29.636952_106.554612,29.636924_106.554604,29.63647_106.554599,29.63645_106.554592,29.636439_106.553958,29.635935_106.553952,29.635921_106.553959,29.635911_106.554023,29.63584_106.554035,29.635826_106.554039,29.635811_106.554037,29.635795_106.553903,29.635623_106.553894,29.635607_106.5539,29.63559_106.553912,29.635575_106.554298,29.635229_106.554347,29.635178_106.554607,29.634818_106.554678,29.634748_106.554737,29.63471_106.554767,29.634694_106.554811,29.634683_106.554849,29.634679_106.554896,29.634678_106.554919,29.634678_106.554942,29.634673_106.554966,29.634664_106.554994,29.634647_106.555589,29.634158_106.555635,29.634141_106.555675,29.634131_106.555715,29.63413_106.555852,29.634145_106.555884,29.634143_106.555911,29.634131_106.55593,29.634112_106.556143,29.633895_106.556165,29.633888_106.556183,29.633888_106.556198,29.633892",
+        "name": "aoi"
+      }
+    ],
+    "newtype": "141202",
+    "disp_name": "重庆市为明学校",
+    "cpdata": "",
+    "latitude": "29.635898",
+    "discount_flag": "0"
+  },
+  {
+    "rating": "",
+    "tel": "",
+    "typecode": "141202",
+    "areacode": "023",
+    "address": "宝圣东路501号",
+    "cityname": "重庆市",
+    "display_brand": "",
+    "shape_region": "106.615,29.6806,106.618,29.678",
+    "longitude": "106.616286",
+    "review_total": "0",
+    "cinemazuo_flag": "0",
+    "diner_flag": "0",
+    "id": "B0FFF3P3DC",
+    "name": "重庆市渝北区黄炎培中学校",
+    "group_flag": "0",
+    "distance": "0",
+    "entrances": [
+      {
+        "latitude": "29.677672",
+        "longitude": "106.615765"
+      }
+    ],
+    "recommend_flag": "0",
+    "exits": [],
+    "adcode": "500112",
+    "domain_list": [
+      {
+        "type": "html",
+        "id": "1015",
+        "name": "poiclosed"
+      },
+      {
+        "type": "img",
+        "id": "1003",
+        "name": "icon"
+      },
+      {
+        "type": "html",
+        "id": "1011",
+        "name": "traffic"
+      },
+      {
+        "type": "text",
+        "id": "1014",
+        "name": "roadaoi"
+      },
+      {
+        "type": "button",
+        "id": "1012",
+        "name": "ext_btn"
+      },
+      {
+        "type": "webimg",
+        "id": "1009",
+        "value": "http://store.is.autonavi.com/showpic/7274796840a7d5c3132900791760b4ad",
+        "name": "pic_info"
+      },
+      {
+        "type": "img",
+        "id": "1008",
+        "name": "overbooked"
+      },
+      {
+        "type": "img",
+        "id": "1007",
+        "name": "moreservice"
+      },
+      {
+        "type": "html",
+        "id": "1006",
+        "name": "tag"
+      },
+      {
+        "type": "text",
+        "id": "1005",
+        "value": "查看出入口、停车场",
+        "name": "parent_info"
+      },
+      {
+        "pys": "29.677972+++29.680245+++29.679275",
+        "poiids": "B0FFM88P2W+++B0G35OXY4Z+++B0FFM4Y0YO",
+        "name": "parent_other_rel",
+        "pxs": "106.615800+++106.616779+++106.614920",
+        "childtype": "31+++31+++31",
+        "poiname": "重庆市渝北区黄炎培中学校(南门)+++重庆市渝北区黄炎培中学校(北门)+++重庆市渝北区黄炎培中学校(西门)",
+        "address": "松鹤支路与宝圣东路一巷交叉口东240米+++宝圣东路与幸福路交叉口东320米+++宝圣东路501号重庆市渝北区黄炎培中学校",
+        "shortname": "南门+++北门+++西门",
+        "type": "array",
+        "id": "1004"
+      },
+      {
+        "type": "text",
+        "id": "1010",
+        "name": "business_area"
+      },
+      {
+        "type": "html",
+        "id": "1002",
+        "name": "deepinfo"
+      },
+      {
+        "type": "html",
+        "id": "1001",
+        "name": "price"
+      },
+      {
+        "type": "text",
+        "id": "1013",
+        "value": "106.615244,29.680515_106.615442,29.68055_106.61585,29.680562_106.616448,29.680387_106.616571,29.680357_106.616791,29.680438_106.617051,29.680212_106.617515,29.67997_106.61803,29.6798_106.61806,29.679727_106.617912,29.679403_106.617558,29.678998_106.616786,29.678415_106.616051,29.677984_106.615928,29.67814_106.615413,29.678105_106.615198,29.678693_106.614924,29.679331_106.614914,29.679434_106.615109,29.679872_106.61512,29.680098_106.615217,29.680112_106.615244,29.680515",
+        "name": "aoi"
+      }
+    ],
+    "newtype": "141202",
+    "disp_name": "重庆市渝北区黄炎培中学校",
+    "cpdata": "",
+    "latitude": "29.679369",
+    "discount_flag": "0"
+  },
+  {
+    "rating": "",
+    "tel": "023-67390029;023-67390625",
+    "typecode": "141202",
+    "areacode": "023",
+    "address": "礼智街22号",
+    "cityname": "重庆市",
+    "display_brand": "",
+    "shape_region": "106.496,29.6747,106.499,29.6718",
+    "longitude": "106.497767",
+    "review_total": "1",
+    "cinemazuo_flag": "0",
+    "diner_flag": "0",
+    "id": "B00170BEH1",
+    "name": "重庆市礼嘉中学校",
+    "group_flag": "0",
+    "distance": "0",
+    "entrances": [
+      {
+        "latitude": "29.672798",
+        "longitude": "106.496771"
+      }
+    ],
+    "recommend_flag": "0",
+    "exits": [],
+    "adcode": "500112",
+    "domain_list": [
+      {
+        "type": "html",
+        "id": "1015",
+        "name": "poiclosed"
+      },
+      {
+        "type": "img",
+        "id": "1003",
+        "name": "icon"
+      },
+      {
+        "type": "html",
+        "id": "1011",
+        "name": "traffic"
+      },
+      {
+        "type": "text",
+        "id": "1014",
+        "name": "roadaoi"
+      },
+      {
+        "type": "button",
+        "id": "1012",
+        "name": "ext_btn"
+      },
+      {
+        "type": "webimg",
+        "id": "1009",
+        "value": "http://store.is.autonavi.com/showpic/ab334fc3bcefc86b478983c9824bdbb1",
+        "name": "pic_info"
+      },
+      {
+        "type": "img",
+        "id": "1008",
+        "name": "overbooked"
+      },
+      {
+        "type": "img",
+        "id": "1007",
+        "name": "moreservice"
+      },
+      {
+        "type": "html",
+        "id": "1006",
+        "name": "tag"
+      },
+      {
+        "type": "text",
+        "id": "1005",
+        "value": "查看出入口、停车场",
+        "name": "parent_info"
+      },
+      {
+        "pys": "29.674358+++29.672788+++29.671883",
+        "poiids": "B00178XD98+++B00178X6M3+++B00178XATZ",
+        "name": "parent_other_rel",
+        "pxs": "106.497083+++106.496807+++106.497563",
+        "childtype": "31+++31+++31",
+        "poiname": "重庆市礼嘉中学校(北门)+++重庆市礼嘉中学校(西门)+++重庆市礼嘉中学校(南门)",
+        "address": "礼智街22号重庆市礼嘉中学校+++礼智街22号重庆市礼嘉中学校+++礼智街22号重庆市礼嘉中学校",
+        "shortname": "北门+++西门+++南门",
+        "type": "array",
+        "id": "1004"
+      },
+      {
+        "type": "text",
+        "id": "1010",
+        "name": "business_area"
+      },
+      {
+        "type": "html",
+        "id": "1002",
+        "name": "deepinfo"
+      },
+      {
+        "type": "html",
+        "id": "1001",
+        "name": "price"
+      },
+      {
+        "type": "text",
+        "id": "1013",
+        "value": "106.496444,29.673945_106.496495,29.673713_106.496586,29.673495_106.49665,29.673313_106.496707,29.673117_106.496735,29.672981_106.496764,29.672816_106.496788,29.672608_106.496793,29.672317_106.496739,29.671885_106.496738,29.671847_106.496742,29.671819_106.496753,29.671799_106.496773,29.671784_106.496792,29.671781_106.496829,29.671775_106.497426,29.671789_106.497887,29.671833_106.498179,29.671901_106.498882,29.672094_106.499391,29.672349_106.499413,29.672511_106.498986,29.672999_106.498816,29.673251_106.498656,29.673506_106.498565,29.673724_106.498497,29.673895_106.497943,29.674695_106.497913,29.674712_106.497877,29.674726_106.497841,29.67473_106.497802,29.674725_106.49777,29.674713_106.496476,29.674028_106.496455,29.674011_106.496449,29.673996_106.496443,29.673971_106.496444,29.673945",
+        "name": "aoi"
+      }
+    ],
+    "newtype": "141202",
+    "disp_name": "重庆市礼嘉中学校",
+    "cpdata": "",
+    "latitude": "29.673091",
+    "discount_flag": "0"
+  }
+]
